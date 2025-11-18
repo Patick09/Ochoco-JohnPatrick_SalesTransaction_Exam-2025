@@ -4,7 +4,7 @@
 
 ## 📘 Description / Overview  
 The *Sales Transaction System* is a *Transaction Processing System (TPS)* designed to streamline and manage sales operations for a business.  
-This system enables users to record sales, manage inventory, process payments, and generate reports in an efficient and user-friendly manner.
+This system enables users to record sales, manage inventory, and generate reports in an efficient and user-friendly manner.
 
 ---
 
