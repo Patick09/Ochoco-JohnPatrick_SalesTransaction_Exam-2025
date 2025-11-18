@@ -144,11 +144,11 @@ Each module (Products, Customers, Transactions, Payments) allows you to view, ed
 
 ##👥 Contributors
 
-John Patrick Ochoco
+**John Patrick Ochoco**
 Developer of the Sales Transaction System
 BS Information Technology Student
 
-John Felix Manahan
+**John Felix Manahan**
 Co-Developer / Project Partner
 BS Information Technology Student
 
@@ -158,7 +158,7 @@ BS Information Technology Student
 
 🧾 License
 
-This project is licensed for educational purposes only.
+This project is licensed for **educational purposes only**.
 You are free to modify and use the system for learning, research, and academic development.
 Commercial use or distribution without permission is not allowed.
 
